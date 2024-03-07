@@ -28,7 +28,7 @@ If the above automata is not a *DFA*. Then the same construction does not work.
 
 Consider a candidate $V=aa^*a$ with the following *NFA*.
 
-![[aa...a-NFA.excalidraw]]
+![[aa*a-NFA.excalidraw]]
 
 The language that $\hat V=a^\omega$ but the corresponding *Büchi Automata* if we get it directly for the *NFA* doesn't accept any word. 
 
