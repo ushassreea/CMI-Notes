@@ -1,0 +1,25 @@
+- Presentation of a group.
+	- Free Groups
+		- We have the following notation for a free group $G=\langle s_{1},s_{2}\dots s_n\rangle$ where $s_i$ belongs to the set of generators of the group. Which is just the set of reduced words. 
+		- A group is also free if there exists a unique non-trivial homo-morphism from it to any other group given by the same generators
+		- Also give commutative diagram example
+	- Presentation of a group
+		- This is a way to extend the notation for free group to a general group 
+		- Here we add an extra set of words that evalutate to $0$, which gives the group a structure. $G=\langle s_{1}\dots s_n | r_{1}\dots r_{m}\rangle$
+		- This is a very succinct representation but the drawback is that there can be multiple representations of the same group like this
+		- Hence Tietze transformations.
+- Problem - All of them are Undecidable - All of them are also equivalent
+	- Given a presentation $P$ and a word $w$, can you decide if the word is identity. 
+	- Conjugation problem : can you decide if two words w, v can be written as $w = g v g^{-1}$ for some $g$ in the group.
+	- Isomorphism Problem : Given two presentations, do they represent isomorphic groups.
+- Cyclically reduced words
+	- $w\in G$ is cyclically reduced, if $w$ is reduced and the first generator is not the inverse of the last generator
+	- The first step is always to reduce then reomve the first and last elements if they are inverses of each other
+- Decideable problems
+	- The first problem of checking if a word is identity in a group on a free group
+		- Algorithm : just reduce it.
+	- First problem on residually finite group
+	- Given a group $G = \langle S | \phi \rangle$, do problem 2 on it.
+		- Algorithm : Check if the cyclically reduced words of both are the same. And they should be a cyclic permutation of each other.
+		- The cyclic permutations comes from the fact that S3 S4 S5 and S4 S5 S3 are conjugates of each other.
+	- 

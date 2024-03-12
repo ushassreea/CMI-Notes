@@ -1,23 +1,23 @@
 {
 	"nodes":[
-		{"id":"63eff0100a135960","type":"file","file":"Notes/Dimension of a Path.md","x":-6000,"y":-1240,"width":560,"height":647,"color":"5"},
-		{"id":"2f21cb5b5b93d212","type":"file","file":"Notes/Topology over Finite Paths in a Timed Automata.md","x":-5360,"y":-1240,"width":560,"height":647,"color":"5"},
-		{"id":"3a36d0f03c8c57f8","type":"file","file":"Notes/Topological Space of Paths in a Timed Automata is Baire.md","x":-4680,"y":-1240,"width":560,"height":647,"color":"5"},
-		{"id":"613f2e88ec960202","type":"file","file":"Notes/Topological Semantics for LTL.md","x":-4000,"y":-1240,"width":480,"height":647,"color":"5"},
-		{"id":"c051a4889bc6229b","type":"file","file":"Notes/Semantics for LTL.md","x":-4680,"y":-480,"width":560,"height":720,"color":"4"},
-		{"id":"5bee5d399c2bffbb","type":"file","file":"Notes/Linear Temporal Logic.md","x":-6000,"y":-480,"width":560,"height":720,"color":"4"},
-		{"id":"070c61b65f14ecf1","type":"file","file":"Notes/Machinery for Probabilistic Semantics for Timed Automata.md","x":-6000,"y":320,"width":560,"height":680,"color":"3"},
-		{"id":"bf5110a4cf6c9f3d","type":"file","file":"Notes/Probability Measure over Finite Paths in a Timed Automata.md","x":-4680,"y":320,"width":560,"height":680,"color":"3"},
-		{"id":"add66ca0d770ae1c","type":"file","file":"Notes/Probabilistic Semantics for LTL.md","x":-4000,"y":320,"width":480,"height":680,"color":"3"},
-		{"id":"64d743616deb19d1","type":"file","file":"Notes/Correspondence of Topological and Probabilistic Semantics for LTL.md","x":-3340,"y":-480,"width":480,"height":720,"color":"6"},
-		{"id":"436eaf026e565935","type":"file","file":"Notes/Banach-Mazur Games.md","x":-3360,"y":-1540,"width":480,"height":624,"color":"5"},
-		{"id":"4d4c13d083e2b681","type":"file","file":"Notes/Region Automata Alternate Definition.md","x":-4880,"y":-2160,"width":560,"height":720,"color":"1"},
-		{"id":"e60342973871b897","type":"file","file":"Notes/Timed Automata Alternate Definition.md","x":-5640,"y":-2160,"width":560,"height":720,"color":"1"},
-		{"id":"095d7c73e99c65ab","type":"file","file":"Notes/Hardness of LTL Model Checking using Timed Automata.md","x":-2560,"y":-316,"width":480,"height":636,"color":"6"},
-		{"id":"60f2db50b697767e","type":"file","file":"Notes/PSPACE-Hardness of LTL Model Checking.md","x":-2560,"y":400,"width":480,"height":660,"color":"6"},
-		{"id":"a6240dafe72af6e0","type":"file","file":"Notes/Winning Strategy for Player 1 in Banach-Mazur games.md","x":-2560,"y":-1340,"width":480,"height":747,"color":"5"},
-		{"id":"5675c410cdf6f531","type":"file","file":"Notes/Winning Strategy for Player 2 in Banach-Mazur games.md","x":-2560,"y":-2160,"width":480,"height":720,"color":"5"},
-		{"id":"7b3019a563960908","type":"text","text":"# Plan\n## Linear Temporal Logic\n- Linear Temporal Logic\n- Semantics for Linear Temporal Object\n## Timed Automata\n- Timed Automata\n- Region Automata\n## Probabilistic Semantics\n- Machinery\n- Prob Dist on runs\n- Prob Sem\n## Topological Semantics\n- Banach Mazur Games\n- Path Dim\n- Winning Strategies\n- Topological Semantics\n## Correspondence\n- Correspondence\n## Hardness\n- PSPACE Hard\n- PSPACE Complete","x":-6860,"y":-1340,"width":523,"height":1120}
+		{"id":"63eff0100a135960","type":"file","file":"College Notes/Notes/Dimension of a Path.md","x":-6000,"y":-1240,"width":560,"height":647,"color":"5"},
+		{"id":"2f21cb5b5b93d212","type":"file","file":"College Notes/Notes/Topology over Finite Paths in a Timed Automata.md","x":-5360,"y":-1240,"width":560,"height":647,"color":"5"},
+		{"id":"3a36d0f03c8c57f8","type":"file","file":"College Notes/Notes/Topological Space of Paths in a Timed Automata is Baire.md","x":-4680,"y":-1240,"width":560,"height":647,"color":"5"},
+		{"id":"613f2e88ec960202","type":"file","file":"College Notes/Notes/Topological Semantics for LTL.md","x":-4000,"y":-1240,"width":480,"height":647,"color":"5"},
+		{"id":"c051a4889bc6229b","type":"file","file":"College Notes/Notes/Semantics for LTL.md","x":-4680,"y":-480,"width":560,"height":720,"color":"4"},
+		{"id":"5bee5d399c2bffbb","type":"file","file":"College Notes/Notes/Linear Temporal Logic.md","x":-6000,"y":-480,"width":560,"height":720,"color":"4"},
+		{"id":"070c61b65f14ecf1","type":"file","file":"College Notes/Notes/Machinery for Probabilistic Semantics for Timed Automata.md","x":-6000,"y":320,"width":560,"height":680,"color":"3"},
+		{"id":"bf5110a4cf6c9f3d","type":"file","file":"College Notes/Notes/Probability Measure over Finite Paths in a Timed Automata.md","x":-4680,"y":320,"width":560,"height":680,"color":"3"},
+		{"id":"add66ca0d770ae1c","type":"file","file":"College Notes/Notes/Probabilistic Semantics for LTL.md","x":-4000,"y":320,"width":480,"height":680,"color":"3"},
+		{"id":"64d743616deb19d1","type":"file","file":"College Notes/Notes/Correspondence of Topological and Probabilistic Semantics for LTL.md","x":-3340,"y":-480,"width":480,"height":720,"color":"6"},
+		{"id":"436eaf026e565935","type":"file","file":"College Notes/Notes/Banach-Mazur Games.md","x":-3360,"y":-1540,"width":480,"height":624,"color":"5"},
+		{"id":"4d4c13d083e2b681","type":"file","file":"College Notes/Notes/Region Automata Alternate Definition.md","x":-4880,"y":-2160,"width":560,"height":720,"color":"1"},
+		{"id":"e60342973871b897","type":"file","file":"College Notes/Notes/Timed Automata Alternate Definition.md","x":-5640,"y":-2160,"width":560,"height":720,"color":"1"},
+		{"id":"095d7c73e99c65ab","type":"file","file":"College Notes/Notes/Hardness of LTL Model Checking using Timed Automata.md","x":-2560,"y":-316,"width":480,"height":636,"color":"6"},
+		{"id":"a6240dafe72af6e0","type":"file","file":"College Notes/Notes/Winning Strategy for Player 1 in Banach-Mazur games.md","x":-2560,"y":-1340,"width":480,"height":747,"color":"5"},
+		{"id":"5675c410cdf6f531","type":"file","file":"College Notes/Notes/Winning Strategy for Player 2 in Banach-Mazur games.md","x":-2560,"y":-2160,"width":480,"height":720,"color":"5"},
+		{"id":"7b3019a563960908","type":"text","text":"# Plan\n## Linear Temporal Logic\n- Linear Temporal Logic\n- Semantics for Linear Temporal Object\n## Timed Automata\n- Timed Automata\n- Region Automata\n## Probabilistic Semantics\n- Machinery\n- Prob Dist on runs\n- Prob Sem\n## Topological Semantics\n- Banach Mazur Games\n- Path Dim\n- Winning Strategies\n- Topological Semantics\n## Correspondence\n- Correspondence\n## Hardness\n- PSPACE Hard\n- PSPACE Complete","x":-6860,"y":-1340,"width":523,"height":1120},
+		{"id":"e6eac2da645bffd4","x":-2560,"y":440,"width":480,"height":660,"color":"6","type":"file","file":"College Notes/Notes/PSPACE-Hardness of LTL Model Checking.md"}
 	],
 	"edges":[
 		{"id":"6b3e67f87324b121","fromNode":"e60342973871b897","fromSide":"right","toNode":"4d4c13d083e2b681","toSide":"left"},
@@ -35,6 +35,6 @@
 		{"id":"62009732162f38a3","fromNode":"436eaf026e565935","fromSide":"right","toNode":"a6240dafe72af6e0","toSide":"left"},
 		{"id":"27e93f5d65f5d43f","fromNode":"436eaf026e565935","fromSide":"right","toNode":"5675c410cdf6f531","toSide":"left"},
 		{"id":"c8ee9c93fbb98851","fromNode":"436eaf026e565935","fromSide":"left","toNode":"613f2e88ec960202","toSide":"top"},
-		{"id":"a72845c5251aaa3a","fromNode":"60f2db50b697767e","fromSide":"top","toNode":"095d7c73e99c65ab","toSide":"bottom"}
+		{"id":"f345cec2131ed0b1","fromNode":"e6eac2da645bffd4","fromSide":"top","toNode":"095d7c73e99c65ab","toSide":"bottom"}
 	]
 }

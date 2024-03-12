@@ -21,7 +21,7 @@ Sometimes, having the general performance guarantees about a problem aren't spec
 >$$
 >f(k)\cdot p(n)
 >$$
->where $k$ is any computable function and $p$ is a polynomial
+>where $f$ is any computable function and $p$ is a polynomial (which can be different for each $k$).
 >^a19740
 
 
