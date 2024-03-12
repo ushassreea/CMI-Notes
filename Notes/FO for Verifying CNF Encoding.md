@@ -41,7 +41,7 @@ This formula can be thought of as:
 For a clause, we just need to check that within a clause, any of the literates are satisfied, this can be done by the following formula.
 
 $$
-\varphi^{\text{clause}}_{h, l}(x) := \exists y \forall z((x < z \leq y \to \lnot P_{\text{clause}}z) \land P_{\text{lit}}y \land \varphi^\text{lit}_{h, l}(y))
+\varphi^{\text{clause}}_{h, l}(x) := \exists y \forall z((x < z \leq y \to \lnot P_{\text{/clause}}z) \land P_{\text{lit}}y \land \varphi^\text{lit}_{h, l}(y))
 $$
 This formula can be read as
 - $y$ is the start of a literate inside the clause starting at $x$

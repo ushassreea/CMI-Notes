@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "ce22528411bc2c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ad3c26e1ad41a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23600934fb8e2f10",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Revisiting Complexity of First-Order and Monadic-Second-Order Logic.canvas",
+                "viewState": {
+                  "x": -1580,
+                  "y": -480,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ad79b7db85342c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b304b2ed99bc2fb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2536a5418185fa54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "128e64bde87c1c96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "779961fce241409d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1da03d12ec73ae7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a0617a7b2e5d606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72799204b992d156",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Revisiting Complexity of First-Order and Monadic-Second-Order Logic.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "542c5f4187036cc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Revisiting Complexity of First-Order and Monadic-Second-Order Logic.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d8aa77a834c1414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "768ea33db4d49f96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Revisiting Complexity of First-Order and Monadic-Second-Order Logic.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "23600934fb8e2f10",
+  "lastOpenFiles": []
+}

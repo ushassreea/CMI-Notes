@@ -10,9 +10,9 @@
 		{"id":"a5e70a7922c625f3","type":"file","file":"Notes/Random Access Machines.md","x":-1840,"y":-800,"width":520,"height":640,"color":"5"},
 		{"id":"400c3a3894ef3afa","type":"file","file":"Notes/Program for RAM.md","x":-1840,"y":-80,"width":520,"height":640,"color":"5"},
 		{"id":"7366ed8ca9bde7a1","type":"text","text":"# Plan\n1. State the Theorem\n2. Motivation and definition for FPT\n\t1. Elementary functions\n\t\t1. State the point\n\t\t2. The power tower theorem\n3. State the plan\n\t1. Prove by showing fast model checking => P = NP\n\t2. Give an efficient encoding for CNF formulas\n\t4. model check - this being fast makes the entire thing fast\n7. Encoding of Nats\n\t1. Give intuition and motivation\n\t2. Give Size of encoding + Time to compute\n\t3. Equality Check formula\n5. Encoding for CNF\n\t1. Nat encoding Hints\n\t2. Give encoding\n\t3. Give checking algorithm\n\t4. Hint the MSO formula\n8. Give tuple encoding -- Pre-Reqs done\n9. Main Theorem\n\t1. Give the MSO formula + explanation\n\t2. Give Algorithm\n\t\t1. Correctness\n\t\t2. Complexity ","x":-2560,"y":-100,"width":560,"height":740,"color":"#00fffb"},
-		{"id":"2435dd987c2389d7","type":"file","file":"Notes/Lemma for Natural Number Encoding.md","x":80,"y":-100,"width":520,"height":640,"color":"6"},
 		{"id":"5903371dfc8e8f4a","type":"file","file":"Notes/FO for Verifying CNF Encoding.md","x":80,"y":-940,"width":520,"height":640,"color":"6"},
-		{"id":"6075e5aeee7c1a8f","type":"file","file":"Notes/Elementary Functions.md","x":-1080,"y":680,"width":520,"height":640,"color":"5"}
+		{"id":"6075e5aeee7c1a8f","type":"file","file":"Notes/Elementary Functions.md","x":-1080,"y":680,"width":520,"height":640,"color":"5"},
+		{"id":"2435dd987c2389d7","type":"file","file":"Notes/Lemma for Natural Number Encoding.md","x":80,"y":-180,"width":520,"height":640,"color":"6"}
 	],
 	"edges":[
 		{"id":"ed6c67c279a25bd4","fromNode":"a5e70a7922c625f3","fromSide":"bottom","toNode":"400c3a3894ef3afa","toSide":"top"},
