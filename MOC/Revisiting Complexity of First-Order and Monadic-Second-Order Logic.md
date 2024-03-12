@@ -39,6 +39,8 @@ The model-checking problem for a logic $L$ on a class $C$ of structures asks whe
 - [[Encoding for Proposition Formulas]]
 	- [[FO for Verifying CNF Encoding]]
 - [[Encoding of Tuples]]
+- [[Complexity of Model Checking in Monadic Second Order Logic]]
+	- [[Solving SAT using MSO]]
 --- 
 ## MOCs
 ---
