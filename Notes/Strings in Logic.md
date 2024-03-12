@@ -21,7 +21,7 @@ A string $\bar{a} = a_{1}a_2\dots a_{n}$ for finite strings of just $\bar{a}=a_{
 >[!example]
 >Let $\Sigma = \{ a, b,c \}$ The following language in [[First Order Logic|FO]] represents the set of strings where each $a$ is eventually followed by a $b$.
 >$$
->\forall x\big( P_{a}x\to \exists y(x \geq y\land P_{b}y)\big)
+>\forall x\big( P_{a}x\to \exists y(x \leq y\land P_{b}y)\big)
 >$$
 
 ---

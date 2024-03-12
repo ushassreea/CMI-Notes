@@ -19,7 +19,7 @@ A Program for a *RAM* is a labelled set of instructions, similar to an assembly 
 	- $\text{LOAD}$ 
 		- $\text{LOAD }a$ : $v(a) \to c(0)$
 	- $\text{STORE}$
-		- $\text{STORE }a : c(a) \to c(0)$
+		- $\text{STORE }a : c(0) \to c(a)$
 		- $\text{STORE } *\!a : c(0) \to c(c(a))$
 	- $\text{ADD}$
 		- $\text{ADD }a : v(a)+c(0) \to c(0)$
@@ -30,8 +30,8 @@ A Program for a *RAM* is a labelled set of instructions, similar to an assembly 
 	- $\text{DIV}$ - Not in the paper
 		- $\text{DIV }a : \lfloor v(a) / c(0)\rfloor \to c(0)$
 	- $\text{READ}$
-		- $\text{READ }a :$ current input symbol $\to c(i)$
-		- $\text{READ }*a :$ current input symbol $\to c(c(i))$
+		- $\text{READ }a :$ current input symbol $\to c(a)$
+		- $\text{READ }*a :$ current input symbol $\to c(c(a))$
 		- In both cases the input pointer moves one step right.
 	- $\text{WRITE}$
 		- $\text{WRITE }a : v(a)$ is written onto the current cell of output tape and the pointer is moved one step to the right. 

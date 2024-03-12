@@ -24,7 +24,7 @@ The model-checking problem for a logic $L$ on a class $C$ of structures asks whe
 	- This can also be thought of as the number of digits in the binary encoding of $n-1$
 - Encoding of propositional formulas
 	- All propositional variables are of the form $X_i$ for $i \in \mathbb{N}$.
-	- For a set $\Theta$ of propositional variables, we done $\Theta(n)$ as the set of formulas that have variables among the following $X_0 \dots X_{n-1}$.
+	- For a set $\Theta$ of propositional variables, we denote $\Theta(n)$ as the set of formulas that have variables among the following $X_0 \dots X_{n-1}$.
 - The tuple $\mu_{h}(\gamma,1,\dots n-1)$ will be written as $\mu_{h}(\gamma,\star )$ for brevity.
 
 --- 
