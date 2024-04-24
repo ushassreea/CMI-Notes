@@ -1,11 +1,30 @@
 {
 	"nodes":[
-		{"id":"e6305387c286c835","type":"file","file":"College Notes/Notes/Fixed Parameter Tractibility.md","x":-440,"y":-360,"width":400,"height":400},
-		{"id":"ba4a4e9a96464cf1","type":"file","file":"College Notes/Notes/Strings in Logic.md","x":-540,"y":140,"width":400,"height":400},
-		{"id":"6075e5aeee7c1a8f","type":"file","file":"College Notes/Notes/Elementary Functions.md","x":140,"y":-360,"width":400,"height":400},
-		{"id":"a5e70a7922c625f3","type":"file","file":"College Notes/Notes/Random Access Machines.md","x":120,"y":100,"width":400,"height":400},
-		{"id":"53d80587171e54ce","x":540,"y":340,"width":400,"height":400,"type":"file","file":"College Notes/Notes/Succinct Encoding of Natural Numbers Using Strings.md"},
-		{"id":"2435dd987c2389d7","x":640,"y":-520,"width":400,"height":400,"type":"file","file":"College Notes/Notes/Lemma for Natural Number Encoding.md"}
+		{"id":"6075e5aeee7c1a8f","type":"file","file":"College Notes/Notes/Elementary Functions.md","x":-1360,"y":800,"width":520,"height":640,"color":"5"},
+		{"id":"53d80587171e54ce","type":"file","file":"College Notes/Notes/Succinct Encoding of Natural Numbers Using Strings.md","x":-640,"y":20,"width":520,"height":640,"color":"4"},
+		{"id":"4f67c691a9a9dd29","x":-640,"y":-740,"width":520,"height":640,"color":"4","type":"file","file":"College Notes/Notes/Encoding for Proposition Formulas.md"},
+		{"id":"ba4a4e9a96464cf1","type":"file","file":"College Notes/Notes/Strings in Logic.md","x":-1360,"y":20,"width":520,"height":640,"color":"5"},
+		{"id":"e6305387c286c835","type":"file","file":"College Notes/Notes/Fixed Parameter Tractibility.md","x":-1360,"y":-740,"width":520,"height":640,"color":"5"},
+		{"id":"8c4684c073e5b1cb","x":880,"y":-300,"width":520,"height":640,"color":"6","type":"file","file":"College Notes/Notes/Solving SAT using MSO.md"},
+		{"id":"f07a47cb9240291f","x":880,"y":560,"width":520,"height":640,"color":"1","type":"file","file":"College Notes/Notes/Complexity of Model Checking in Monadic Second Order Logic.md"},
+		{"id":"dff2b245c5e97741","x":-120,"y":800,"width":520,"height":640,"color":"4","type":"file","file":"College Notes/Notes/Encoding of Tuples.md"},
+		{"id":"5903371dfc8e8f4a","x":80,"y":-940,"width":520,"height":640,"color":"6","type":"file","file":"College Notes/Notes/FO for Verifying CNF Encoding.md"},
+		{"id":"2435dd987c2389d7","type":"file","file":"College Notes/Notes/Lemma for Natural Number Encoding.md","x":80,"y":-160,"width":520,"height":640,"color":"6"},
+		{"id":"a5e70a7922c625f3","type":"file","file":"College Notes/Notes/Random Access Machines.md","x":-2200,"y":-800,"width":520,"height":640,"color":"5"},
+		{"id":"400c3a3894ef3afa","x":-2200,"y":20,"width":520,"height":640,"color":"5","type":"file","file":"College Notes/Notes/Program for RAM.md"},
+		{"id":"7366ed8ca9bde7a1","x":-3120,"y":260,"width":679,"height":860,"color":"#00fffb","type":"text","text":"# Plan\n1. State the Theorem\n2. Motivation and definition for FPT\n\t1. Elementary functions\n\t\t1. State the point\n\t\t2. The power tower theorem\n3. State the plan\n\t1. Prove by showing fast model checking => P = NP\n\t2. Give an efficient encoding for CNF formulas\n\t4. model check - this being fast makes the entire thing fast\n7. Encoding of Nats\n\t1. Give intuition and motivation\n\t2. Give Size of encoding + Time to compute\n\t3. Equality Check formula\n5. Encoding for CNF\n\t1. Nat encoding Hints\n\t2. Give encoding\n\t3. Give checking algorithm\n\t4. Hint the MSO formula\n8. Give tuple encoding -- Pre-Reqs done\n9. Main Theorem\n\t1. Give the MSO formula + explanation\n\t2. Give Algorithm\n\t\t1. Correctness\n\t\t2. Complexity "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ed6c67c279a25bd4","fromNode":"a5e70a7922c625f3","fromSide":"bottom","toNode":"400c3a3894ef3afa","toSide":"top"},
+		{"id":"8442fb4257573267","fromNode":"53d80587171e54ce","fromSide":"top","toNode":"4f67c691a9a9dd29","toSide":"bottom"},
+		{"id":"c319106eb6e38b52","fromNode":"53d80587171e54ce","fromSide":"bottom","toNode":"dff2b245c5e97741","toSide":"top"},
+		{"id":"f3491f4fc940e38f","fromNode":"53d80587171e54ce","fromSide":"right","toNode":"2435dd987c2389d7","toSide":"left"},
+		{"id":"68b309cf68793ab9","fromNode":"4f67c691a9a9dd29","fromSide":"right","toNode":"5903371dfc8e8f4a","toSide":"left"},
+		{"id":"f47cc011c173ac0a","fromNode":"8c4684c073e5b1cb","fromSide":"bottom","toNode":"f07a47cb9240291f","toSide":"top"},
+		{"id":"18f31c69dd65bc7f","fromNode":"5903371dfc8e8f4a","fromSide":"right","toNode":"8c4684c073e5b1cb","toSide":"left"},
+		{"id":"3fa6f1a4525af898","fromNode":"2435dd987c2389d7","fromSide":"right","toNode":"8c4684c073e5b1cb","toSide":"left"},
+		{"id":"00a21663b5fdd584","fromNode":"dff2b245c5e97741","fromSide":"right","toNode":"8c4684c073e5b1cb","toSide":"left"},
+		{"id":"6ec65c249bac554e","fromNode":"ba4a4e9a96464cf1","fromSide":"right","toNode":"53d80587171e54ce","toSide":"left"},
+		{"id":"5408a9a0fbe0e658","fromNode":"2435dd987c2389d7","fromSide":"top","toNode":"5903371dfc8e8f4a","toSide":"bottom"}
+	]
 }

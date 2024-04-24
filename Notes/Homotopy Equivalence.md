@@ -25,7 +25,8 @@ title:
 If $f:X \to Y$ and $g:Y \to Z$ are homotopy equivalences then $g \circ f:X\to Z$ is a homotopy equivalence.
 ```
 ##### Proof:
-Take $$
+Take 
+$$
 X \xrightarrow{f} Y \xrightarrow{g} Z \xrightarrow{g'} Y \xrightarrow{f'} X
 $$
 This is homotopic to $id_{X}$. So $X$ and $Z$ are homotopy equivalent with $g \circ f$ and $f' \circ g'$ as the homotopy equivalence maps.
@@ -45,10 +46,12 @@ Let $f : (X,x_0)\to (Y,y_0)$ be a cts map. If $f$ is a homotopy equivalence, the
 ##### Proof:
 Recall Lemma 2 from [[Deformation Retracts]].
 Let $g : Y \to X$ be the homotopy inverse to $f$. Let $g(y_{0}) = x_{1}$ and let $f(x_{1}) = y_{1}$.
-Consider the sequence of maps $$
+Consider the sequence of maps 
+$$
 (X,x_{0}) \xrightarrow{f} (Y,y_{0}) \xrightarrow{g} (X,x_{1}) \xrightarrow{f} (Y,y_{1})
 $$
-This gives rise to the following homomorphisms: $$
+This gives rise to the following homomorphisms: 
+$$
 \Pi_{1}(X,x_{0}) \xrightarrow{f_{*}} \Pi_{1}(Y,y_{0}) \xrightarrow{g_{*}} \Pi_{1}(X,x_{1}) \xrightarrow{f_{*}'} \Pi_{1}(Y,y_{1})
 $$
 Since we know that $g \circ f$ is homotopic to $id_{X}$, so by the lemma applied to $h = g \circ f$ and $k = id_{X}$, we get that $h_{*} = \hat{\alpha}(k_{*}) \implies (g \circ f)_{*} = \hat{\alpha}(id_{\Pi_{1}(X,x_{0})}) = \hat{\alpha}$.

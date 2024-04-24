@@ -1,6 +1,7 @@
 ---
 tags:
   - MOC
+sticker: lucide//map-pin
 ---
 202402121702
 

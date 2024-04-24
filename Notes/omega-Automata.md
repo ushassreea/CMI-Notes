@@ -15,6 +15,9 @@ Tags : [[Automata Theory]]
 - **Büchi Automata** 
 	- There is one set of good states $G$.
 	- A word is accepted if there is a run of the word on the automata that goes over the set $G$(any one element) infinitely many times.
+- **Co-Büchi Automata**
+	- There is one set of bad states $B$.
+	- A word is accepted if every run of the word visited $B$ finitely many times.
 - **Generalized Büchi Automata**
 	- There is a set of good states $\langle G_i \rangle$
 	- A word is accepted if there is a run of the word on the automata that goes over all the sets $G_i$ infinitely many often.

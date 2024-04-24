@@ -19,6 +19,8 @@ Games are a very elegant way of modelling systems where there are components not
 
 The [[Gameplay for Games on Graphs]] is defined here.
 
+![[Game.excalidraw]]
+
 --- 
 ## Notes
 - Basics
@@ -26,6 +28,16 @@ The [[Gameplay for Games on Graphs]] is defined here.
 	- [[Winning Condition for Games on Graphs]]
 	- [[Gameplay for Games on Graphs]]
 - [[Strategy for Games on Graphs]]
+	- [[Winning Arena for Reachability Games]]
+		- [[Winning Strategy for Reachability Games]]
+	- [[Winning Arena for Büchi Games]]
+		- [[Winning Strategy for Büchi Games]]
+	- [[Winning Arena for Parity Games]]
+	- [[Winning Arena for Rabin Games]]
+		- [[Winning Arena for Rabin Games - Fail]]
+- [[Sub-Games]]
+- [[Properties of the Attractor function and Traps]] 
+- [[sigma-paradise]]
 - [[Banach-Mazur Games]]
 	- [[Winning Strategy for Player 1 in Banach-Mazur games]]
 	- [[Winning Strategy for Player 2 in Banach-Mazur games]]

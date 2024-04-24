@@ -1,6 +1,8 @@
 ---
 tags:
   - Note
+aliases:
+  - Well Quasi-Order
 ---
 202311031511
 
@@ -16,19 +18,18 @@ Tags :[[Order Theory]]
 
 ## Examples
 - $(\mathbb N, \leq)$
+- *Sub-word Order*
 ## Non-Examples
 - $(\mathbb Z, \leq)$: $-1,-2\dots$
-- *Lexicographical Order*: $B, AB, AB B\dots$
+- *Lexicographical Order*: $B, AB, AAB\dots$
 - *Prefix Order*: $B, AB, AAB$
-
----
-
-An important theorem for *well-quasi-order* is
-![[Higman's Lemma#^Lemma]]
 
 ---
 # References
 [[Preorder]]
 [[Monotone Domination Order]]
 [[Higman's Lemma]]
+[[Equivalent Definitions of Well-preorder]]
 [[Well Ordering]]
+[[Increasing Upward-Closed sets in Preorders]]
+[[Product of Well-Preorders]]

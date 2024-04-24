@@ -15,7 +15,7 @@ Tags : [[Advanced Algorithms]]
 ---
 
 This problem is *\#P complete*.
-*#P complete:* Class of functions that count the number of solutions to a problem in NP (harder than NP), eg, \#perfect matchings, \#SAT
+*\#P complete:* Class of functions that count the number of solutions to a problem in NP (harder than NP), eg, \#perfect matchings, \#SAT
 
 ```ad-note
 title: **FPRAS: (Fully Polytime Randomized Approximation Scheme)**

@@ -1,3 +1,6 @@
+---
+tags: Incomplete
+---
 202308161508
 
 Type : #Note
@@ -31,3 +34,4 @@ If a lattice has $0$ and $1$, $b$ is said to be a _complement_ of $a$ if $a\sqca
 
 ---
 # References
+[[Complete Lattice]]

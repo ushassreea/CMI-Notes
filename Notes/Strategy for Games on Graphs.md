@@ -28,8 +28,10 @@ $$
 \forall i\in \mathbb{N},\quad R[i]\in V_{\sigma}\to R[i+1]=f(R[0\dots i]) 
 $$
 
->[!Definition] Winning Strategy
->A strategy $f$ for player $\sigma$ is called a *winning strategy* if all run following the strategy are winning for $\sigma$
+>[!Definition] Winning Strategy and Decidable Games
+>A strategy $f$ for player $\sigma$ is called a *winning strategy* if all run following the strategy are winning for $\sigma$.
+>
+>A game is called *Decidable* if given each position. There is exactly one winning strategy 
 
 ---
 # References

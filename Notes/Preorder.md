@@ -3,11 +3,12 @@ aliases:
   - Quasi-Order
 tags:
   - Note
+alias:
 ---
 202301270401
 
 Type : #Note
-Tags :[[Category Theory]]
+Tags :[[Order Theory]]
 
 ---
 # Preorder

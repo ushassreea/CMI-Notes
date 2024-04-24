@@ -25,7 +25,11 @@ The model-checking problem for a logic $L$ on a class $C$ of structures asks whe
 - Encoding of propositional formulas
 	- All propositional variables are of the form $X_i$ for $i \in \mathbb{N}$.
 	- For a set $\Theta$ of propositional variables, we done $\Theta(n)$ as the set of formulas that have variables among the following $X_0 \dots X_{n-1}$.
-- The tuple $\mu_{h}(\gamma,1,\dots n-1)$ will be written as $\mu_{h}(\gamma,\star )$ for brevity.
+- The tuple $\mu_{h}(\gamma,1,\dots n-1)$ will be written as $\mu_{h}(\gamma,\star )$ for brevity.\
+---
+## Slides
+
+[[Revisiting Complexity of First-Order and Monadic Second Order Logic]]
 
 --- 
 ## Notes
@@ -39,6 +43,8 @@ The model-checking problem for a logic $L$ on a class $C$ of structures asks whe
 - [[Encoding for Proposition Formulas]]
 	- [[FO for Verifying CNF Encoding]]
 - [[Encoding of Tuples]]
+- [[Complexity of Model Checking in Monadic Second Order Logic]]
+	- [[Solving SAT using MSO]]
 --- 
 ## MOCs
 ---

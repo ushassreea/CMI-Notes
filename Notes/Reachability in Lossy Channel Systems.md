@@ -9,7 +9,7 @@ Tags : [[Theory of Computation]], [[Timed Automata]]
 ---
 # Reachability in Lossy Channel Systems
 
->[!note] Lossy Channel Systems 
+>[!definition] Lossy Channel Systems 
 >A **Lossy Channel System** is like a [[Channel Systems|Channel System]] but on each transition, the channel can lose some of its letters(from any part of the work) and become a subword.
 
 >[!tldr] Plan

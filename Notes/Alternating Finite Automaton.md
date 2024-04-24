@@ -12,6 +12,8 @@ Tags : [[Theory of Computation]]
 > *NFAs* cannot be trivially complemented because a word can have multiple runs that may or may not reach a final state. Dealing with all of them together makes the process easier.
 > The problem is created because there is a tool to deal with disjunction of runs, namely non-determinism. But there isn't a tool to deal with conjunctions.
 > Alternating Finite Automata offer us that tool.
+> 
+> It can also be thought of as a combination of a [[Non-Deterministic Finite State Automata|NFA]] and a [[Universal Finite Automaton]]
 
 The idea is to give transitions that allow a letter to go to multiple states, but with an *and* condition. That is, all runs that diverge at this set of transitions much reach accepting states.
 
@@ -35,3 +37,4 @@ This is because  there is a direct construction of an *AFA* to an *NFA*, that is
 # References
 [Wiki](https://en.wikipedia.org/wiki/Alternating_finite_automaton?useskin=vector)
 [[Alternating Timed Automata]]
+[[Universal Finite Automaton]]
